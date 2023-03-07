@@ -1,0 +1,10 @@
+.slide1{
+    background-image: url("https://htmldemo.net/study/study/img/slider/1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.slide2{
+    background-image: url("https://htmldemo.net/study/study/img/slider/2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
